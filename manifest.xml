@@ -1,0 +1,6 @@
+<manifest>
+  <remote name="origin" fetch="https://github.com/linux-dafei/" review="https://github.com/linux-dafei" />
+  <default revision="master" remote="origin" sync-j="4" />
+  <project path="source/git1" name="git1" />
+  <project path="source/git2" name="git2" />
+</manifest>
